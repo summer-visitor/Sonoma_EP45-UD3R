@@ -9,6 +9,7 @@
 	OS : macOS Sonoma 14.7.4
  	OpenCore : 1.0.4
 	Opencore Legacy Patcher : 2.2.0  
+
   
 	<config.plist>
  
