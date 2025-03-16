@@ -8,9 +8,4 @@
  	Model identifier : iMacPro 1,1 (2017)
 	OS : macOS Sonoma 14.7.4
  	OpenCore : 1.0.4
-	Opencore Legacy Patcher : 2.2.0  
-
-  
-	<config.plist>
- 
- 	boot-args alcid=1 -nehalem_error_disable spin_wait_for_gpu=1 batman-nosmc=1 -no_compat_check -crypt_force_avx swd_panic=1
+	Opencore Legacy Patcher : 2.2.0
