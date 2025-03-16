@@ -11,4 +11,5 @@
 	Opencore Legacy Patcher : 2.2.0  
   
 	<config.plist>
+ 
  	boot-args alcid=1 -nehalem_error_disable spin_wait_for_gpu=1 batman-nosmc=1 -no_compat_check -crypt_force_avx swd_panic=1
